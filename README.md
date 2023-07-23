@@ -1,5 +1,4 @@
-#Registration-Login Webpage
-
+# Registration-Login Webpage
 This web application project enables users to register accounts, log in, and access protected resources. 
 
 Features:
